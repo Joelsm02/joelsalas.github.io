@@ -613,7 +613,7 @@ section {
 .portfolio a:hover h3{
   text-wrap:nowrap;
   font-size:large;
-  margin-left: 5%;
+  margin-left: 0.5cm;
   visibility: visible; 
   color: #ffffff;
 }
@@ -624,7 +624,7 @@ section {
 .portfolio a:hover p{
   text-wrap:nowrap;
   font-size:medium;
-  margin-left: 5%;
+  margin-left: 0.5cm;
   visibility: visible; 
   color: #a3a3a3; 
 }
